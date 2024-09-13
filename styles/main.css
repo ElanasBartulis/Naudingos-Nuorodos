@@ -1,0 +1,29 @@
+main{
+    th {
+        display: flex;
+        justify-content: start;
+        font-size: 24px;
+        padding-bottom: 10px;
+    }
+    tr:first-child {
+        border-bottom: 1px solid black;
+    }
+    tr{
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        place-items: center;
+        padding: 10px 0;
+    }
+    td{
+        text-align: center;
+    }
+    .border {
+        border-bottom: 1px solid black;
+    }
+    .fit-text {
+        font-size: 1.5vmin;
+    }
+    a{
+        text-decoration: none;
+    }
+}

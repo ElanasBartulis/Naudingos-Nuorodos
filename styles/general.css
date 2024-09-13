@@ -1,0 +1,16 @@
+body,
+body * {
+    margin:0;
+    padding:0;
+    vertical-align: top;
+    box-sizing: border-box;
+
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+
+    .container{
+        max-width: 1400px;
+        margin: 0 auto;
+        padding-top: 5rem;
+    }
+}
