@@ -1,1 +1,1 @@
-# Naudingu nuorodu list
+# Asmenine naudingu nuorodu list
